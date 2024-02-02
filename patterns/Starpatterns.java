@@ -101,6 +101,7 @@ public class Starpatterns {
             }
             System.out.println();
         }
+        //Jai Test
     }
 
     
